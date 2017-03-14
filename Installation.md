@@ -2,7 +2,7 @@
 <p><span style="font-size: 13px;">2)<strong> Install git</strong> :&nbsp;</span><a style="font-size: 13px;" href="https://git-scm.com/download/win">https://git-scm.com/download/win</a></p>
 <p>3) <strong>Pull workshop files</strong>: Use Git Bash from: All program -&gt; Git -&gt; Git Bash-&gt;Execute
 <p><span style="font-family: 'Courier New';"><code>$ cd Documents/Python Scripts/</span></p></code>
-<p><span style="font-family: 'Courier New';">$ git clone </span><a href="https://github.com/"><span style="font-family: 'Courier New';">https://github.com/</span></a><span style="font-family: 'Courier New';">gsvijayraajaa/workshop</span></p>
+<p><span style="font-family: 'Courier New';">$ git clone </span><a href="https://github.com/"><span style="font-family: 'Courier New';">https://github.com/</span></a><span style="font-family: 'Courier New';">gsvijayraajaa/workshop.git</span></p>
 <p>4) <strong>Check if all packages are installed:</strong>
 <p><span style="font-family: 'Courier New';"><code>$ cd workshop</span></p></code>
 <p>To test your installation, change to the tutorial directory, and run:</p>
